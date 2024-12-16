@@ -2,7 +2,7 @@ const PlantDisease = require('./plantd.model');
 const User = require('./user.model');
 const { predictDisease } = require('./model'); 
 const fs = require('fs'); 
-
+const path = require('path');
 exports.detectDisease = async (req, res) => {
   const userEmail = req.user.email;  
   console.log(userEmail);
