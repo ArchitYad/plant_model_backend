@@ -9,3 +9,6 @@ Contains code for training the model.
 
 # Confusion Matrix
 ![Screenshot 2024-11-18 131745](https://github.com/user-attachments/assets/f1545b71-e501-442a-8f21-3d06646bf3ac)
+
+# Datasets
+https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset :- Dataset.
