@@ -12,3 +12,9 @@ Contains code for training the model.
 
 # Datasets
 https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset :- Dataset.
+
+# Console
+![Screenshot 2024-12-19 104014](https://github.com/user-attachments/assets/8793ff86-e9ef-4b34-b22c-1b0761210ab2)
+
+# Database
+![image](https://github.com/user-attachments/assets/39daaee0-414c-44ee-b969-61dcda1e90d6)
