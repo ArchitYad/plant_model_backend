@@ -17,4 +17,7 @@ https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset :- Dataset.
 ![Screenshot 2024-12-19 104014](https://github.com/user-attachments/assets/8793ff86-e9ef-4b34-b22c-1b0761210ab2)
 
 # Database
+Plant Details
 ![image](https://github.com/user-attachments/assets/39daaee0-414c-44ee-b969-61dcda1e90d6)
+Login Details
+![image](https://github.com/user-attachments/assets/28c01863-de57-4d0d-895b-a8fb2ceb1e38)
